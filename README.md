@@ -1,5 +1,3 @@
 # packagereference-migrator-script
-Migrates your project to new PackageReference format
-
-
-Produces nice and clean diffs like these: https://github.com/kekekeks/Perspex/commit/e7e9a535fd7b00c59566cec15168eac215aa8506
+Does 95-100% of required work to move on new project format
+according to this guide http://www.natemcmaster.com/blog/2017/03/09/vs2015-to-vs2017-upgrade/

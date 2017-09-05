@@ -50,7 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>10.0.1-beta1</Version>
+      <Version>10.0.3</Version>
+    </PackageReference>
+    <PackageReference Include="XPath2">
+      <Version>1.0.5</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
